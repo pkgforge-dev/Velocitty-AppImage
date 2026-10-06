@@ -9,7 +9,7 @@ export UPINFO="gh-releases-zsync|${GITHUB_REPOSITORY%/*}|${GITHUB_REPOSITORY#*/}
 export DESKTOP=/usr/share/applications/org.x.velocitty.desktop
 export ICON=/usr/share/icons/hicolor/scalable/apps/velocitty.svg
 export DEPLOY_PYTHON=1
-export DEPLOY_GTK=1
+export APPNAME=Velocitty
 
 export PATH_MAPPING='
 	/usr/share/velocitty:${SHARUN_DIR}/share/velocitty
